@@ -16,10 +16,11 @@
 bash bench_env.sh
 ```
 
-2. `run_allreduce_bench.sh`を`./DeepSpeed/benchmarks/communication`に配置する (パスは戻らなくて良い)
+2. `run_allreduce_bench.sh`を`./DeepSpeed/benchmarks/communication`に配置する
 
 3. 実行
 
 ```
+cd ./DeepSpeed/benchmarks/communication
 bash bench.sh
 ```
