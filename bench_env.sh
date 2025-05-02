@@ -1,3 +1,5 @@
+#!/bin/bash
+
 python -m venv deepspeed_test
 source deepspeed_test/bin/activate
 
